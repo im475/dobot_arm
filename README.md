@@ -1,4 +1,4 @@
-<h1 align="center">Internship Project</h1>
+<h1 align="center">Summer Project 2021</h1>
 <p align="center">Computer Vision and Robotics</p>
 
 <p align="center">
