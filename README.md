@@ -1,4 +1,4 @@
-<h1 align="center">Summer Project</h1>
+<h1 align="center">Research Project</h1>
 <p align="center">Computer Vision and Robotics</p>
 
 <p align="center">
